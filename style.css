@@ -1,0 +1,60 @@
+<!-- .. Rest of Code.. -->
+<!-- </body> -->
+
+<!-- BEGIN CSS -->
+<style>
+
+    h1 {
+        color: black;
+        text-align: center;
+    }
+
+    h2 {
+        color: black;
+    }
+
+    p.colorRed {
+        color: red;
+    }
+
+    p.colorBlue {
+        color: blue;
+    } 
+
+    p.colorGreen {
+        color: green;
+    }s
+
+
+    p.fontSize1 {
+        font-size: 30px;
+    }
+
+    p.fontSize2 {
+        font-size: 10px;
+    }
+
+    p.textCenter {
+        text-align: center;
+    }
+
+    p.textBold {
+
+        font-weight: bold;
+
+    }
+
+    p.normalFont {
+        font-weight: normal;
+    }
+
+    .styledImage {
+        border: 10px solid orange;
+    } 
+
+
+
+</style> 
+<!-- END CSS -->
+
+<!-- </html> -->
